@@ -1,5 +1,5 @@
 # stock-finanacequotes-api
-A restful webservice implementation in jax-rs framework with asynchronous processing.Technology stack include Rxjava, Google guava for centralize data caching to maintain request uptime and so on.  
+A restful webservice implementation in jersey framework with asynchronous processing.Technology stack include Rxjava, Google guava for centralize data caching to maintain request uptime and so on.  
 
 The Api consists of several end points for fetching stock related data : 
 
